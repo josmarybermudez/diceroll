@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice Rollers</string>
+    <string name="roll">Roll</string>
+    <string name="greeting">Hi! Welcome to our Team</string>
+</resources>
